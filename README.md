@@ -8,4 +8,4 @@
 
 <h1 align="center"> Portifólio Pessoal Ryan Silva </h1>
 
-Olá, este projeto é o primeiro portifólio pessoal que crio com HTML e CSS puro (até o momento, irei adicionar JS em proximos commits). O projeto ainda não está pronto, e tenho foco de terminá-lo 100% até o fim de 2022. Estou utilizando diversas técnicas CSS como Glasmorphism, uso da ferramenta flex-box, perspective transition, gradient, entre outras. Espero que goste e caso tenha algo a adicionar, ficarei feliz em avaliar seu commit e espero aprender contigo 
+Olá, este projeto é o primeiro portifólio pessoal que crio com HTML e CSS puro (até o momento, irei adicionar JS em proximos commits). O projeto ainda não está pronto, e tenho foco de terminá-lo 100% até o fim de 2024. Estou utilizando diversas técnicas CSS como Glasmorphism, uso da ferramenta flex-box, perspective transition, gradient, entre outras.
